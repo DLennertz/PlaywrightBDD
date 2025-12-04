@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/DLennertz/PlaywrightBDD#readme",
   "devDependencies": {
+    "@cucumber/cucumber": "^12.3.0",
     "@playwright/test": "^1.57.0",
-    "@types/node": "^24.10.1"
+    "@types/node": "^24.10.1",
+    "playwright-bdd": "^8.4.2"
   }
 }
